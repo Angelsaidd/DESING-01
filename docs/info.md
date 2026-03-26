@@ -9,8 +9,7 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-Explain how your project works
-
+ESTO ES POR MI CHAVITO
 ## How to test
 
 Explain how to use your project
